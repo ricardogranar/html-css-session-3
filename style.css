@@ -18,7 +18,7 @@
     outline: none;
   }
   
-  /* GLOBAL */
+  
   header {
     display: flex;
     justify-content: space-around;
@@ -132,11 +132,11 @@
     right: 155px;
     top: 9%;
   }
-  .b-list--big {
+  .foot {
     display: flex;
     justify-content: space-around;
-    text-align: center;
+    text-align:left;
     width: 85%;
     height: 40px;
-    border-top: 1px solid rgb(117, 116, 116);
+    border-top: 1px black;
   }
